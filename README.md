@@ -2,7 +2,7 @@
 Structure and Interpretation of Computer Programs 
 
 
-My projects and homeworks for CS61A, Spring 2019. cs61a.org
+My projects and homeworks for CS61A, Spring 2019. cs61a.org. Not to be copied.
 
 From instructors:
 
