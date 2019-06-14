@@ -1,0 +1,12 @@
+def make_checker(relation, start, end):
+	def g(f):
+		current = start
+		while current < end:
+			if relation(f,current):
+				current += 1
+			else:
+				return None
+
+		return True
+
+	return g
